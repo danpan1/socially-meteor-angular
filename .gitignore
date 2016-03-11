@@ -1,0 +1,8 @@
+.DS_Store
+.idea
+packages/
+smart.lock
+.dropbox
+public/.uploads/
+elixir.json
+
